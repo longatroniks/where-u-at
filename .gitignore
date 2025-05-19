@@ -1,4 +1,4 @@
-# Derived Data and Build Output
+# Xcode Derived Data and Build Output
 DerivedData/
 Build/
 *.pbxuser
@@ -22,16 +22,17 @@ xcuserdata/
 Packages/
 .swiftpm/xcode/package.xcworkspace
 
-# macOS Files
+# macOS system files
 .DS_Store
+
+# Swap and temp files
 *.swp
+*.swo
 *.lock
 *.bak
 *.tmp
-*.swp
-*.swo
 
-# Personal Xcode Settings
+# Personal Xcode user settings
 *.xcuserdatad/
 
 # Playgrounds
