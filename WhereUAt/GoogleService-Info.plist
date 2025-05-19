@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCA5P4YtkPIlCiA-QXlEJQ3jNJVOAEt4Wk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1046085911627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>rivertech.WhereUAt</string>
+	<key>PROJECT_ID</key>
+	<string>whereuat-2fc6d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whereuat-2fc6d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1046085911627:ios:4c3502a57aa68a1d4779ce</string>
+</dict>
+</plist>
